@@ -8,6 +8,7 @@ SOURCE_DIR = os.path.join(ROOT_DIR)
 setup(
     name = "longerusername",
     version = "0.4",
+    url='http://github.com/GoodCloud/django-longer-username',
     packages = find_packages(),
     license = 'BSD',
     zip_safe = False,
