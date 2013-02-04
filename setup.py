@@ -9,5 +9,6 @@ setup(
     name = "longerusername",
     version = "0.4",
     packages = find_packages(),
+    license = 'BSD',
     zip_safe = False,
 )
